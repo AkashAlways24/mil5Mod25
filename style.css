@@ -1,6 +1,4 @@
-section{
-  background-color: bisque;
-}
+
 
 /* .pClass{
   background-color: steelblue;
@@ -10,4 +8,9 @@ section{
   font-size: large;
   color: goldenrod;
   background-color: mediumspringgreen;
+}
+.add-H1{
+  font-size: large;
+  color: rgb(251, 255, 0);
+  background-color: rgb(27, 0, 124);
 }
