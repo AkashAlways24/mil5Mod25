@@ -25,3 +25,15 @@ main.appendChild(sectionAdd);
 // tar porer onso add kora holo 
 sectionAdd.appendChild(ulAdd);
 
+// aita html diya ekbare likha *********
+const htmlWith = document.createElement('section');
+htmlWith.innerHTML= `
+      <h1>aita js er madome change</h1>
+      <ul>
+        <li>ami</li>
+        <li>tumi</li>
+        <li>jini</li>
+      </ul>
+      <button>click me</button>
+`
+main.appendChild(htmlWith)
